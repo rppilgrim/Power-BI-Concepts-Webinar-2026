@@ -1,32 +1,37 @@
 # Power-BI-Concepts-Webinar-2026
-Even though these sessions will be focused on Power BI the core concepts are available in most other platforms.
-# Power BI Key Concepts
-**Level**: Introductory
+Even though these sessions focus on Power BI, the core concepts apply to most modern analytics platforms.
 
-**Description**: Introduction to the concept of a data model and the Microsoft Analytics Stack. Here we will take as step back and look at the landscape analytics tools available in Microsoft.
+## Power BI Overview
 
--   **Overview of the Microsoft Analytics Stack:** Why Microsoft is one of the best tools for lean teams.
--   **Key Concepts:** Data models, DAX, calculated columns, Workspace, Apps, license options.
--   **Deployment:** What is the difference between Power BI Desktop, Service, and App. When to use which.
--   **Example Workflow:** How to create and deploy analytics to the end users.
 
-# Security and Teams
+
+**Level:** Introductory
+
+**Description:** An introduction to data modeling and the Microsoft analytics ecosystem. We will step back and map the landscape of Microsoft’s analytics tools, how they fit together, and where Power BI sits in the stack.
+
+* **Microsoft Analytics Stack Overview:** Why Microsoft is a strong option for lean teams.
+* **Core Concepts:** Data models, DAX, calculated columns, workspaces, apps, and licensing.
+* **Deployment Models:** Differences between Power BI Desktop, the Power BI Service, and Apps, and when to use each.
+* **Example Workflow:** Building a report and deploying it to end users.
+
+## Security and Teams
 
 **Level:** Intermediate
 
-**Description:** How to enforce data security and governance on your analytics work. Bulk report access without having to manually hit the “Share” button.
+**Description:** How to enforce security, governance, and scalable access management without manually sharing reports one-by-one.
 
--   **Reporting Groups**: How to share your reports in a scalable way. Reporting access levels and workspace vs app vs data model sharing
--   **Row Level Security**: Introduction and implementation
--   **Version Control:** Leveraging OneDrive/Google Drive. Introduction to the Power BI Project (PBIP) format and what it means for version control and documentation
+* **Reporting Groups:** Scalable report distribution, access levels, and the difference between workspace, app, and dataset sharing.
+* **Row-Level Security (RLS):** Concepts, setup, and implementation.
+* **Version Control:** Using OneDrive or Google Drive, plus an introduction to PBIP (Power BI Project) and what it enables for version control and documentation.
 
-# Advanced Concepts
+## Advanced Concepts
 
 **Level:** Advanced
 
-**Description:** Introduction to some high-level workflows and external tools. This will be aimed at more technical people, but anyone will be able to follow along.
+**Description:** Advanced workflows and tooling for technical users, presented in a way that remains accessible to non-technical participants.
 
--   **User Defined Functions (UDF):** Introduction to this exciting new feature which will change the way you work in Power BI.
--   **Parameters: How can your users change the inputs to your analytics models on the fly.**
--   **Using other languages inside Power BI:** How can we write code directly in Power BI such as R and Python.
--   **External Tools:** How can we extend the capabilities of Power BI Desktop with integrated external tools
+* **User-Defined Functions (UDFs):** What they are and how they change DAX development.
+* **Parameters:** Letting users adjust model inputs dynamically.
+* **Using Other Languages in Power BI:** Where R and Python fit, and how they can extend Power BI.
+* **External Tools:** Extending Power BI Desktop with integrated tooling to improve productivity and capability.
+
