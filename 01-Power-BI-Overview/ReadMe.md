@@ -7,7 +7,7 @@ https://rppilgrim.github.io/website-REACH-2026-Power-BI-Webinar/
 # Who am I
 
 - Robert Pilgrim, Ph.D. | rpilgrim@uark.edu
-- Associate Director of Data Strategy Insight
+- Associate Director of Data Strategy & Insights
 - Office of Sponsored Programs, UARK
 - B.Sc Astrophysics | Ph.D. Space Science
 - My Website [rpilgrim.com](rpilgrim.com) | [LinkedIn](https://www.linkedin.com/in/robert-pilgrim-2181a213/)) | [Substack](https://researchanalytics.substack.com/)
