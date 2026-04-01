@@ -25,6 +25,7 @@ Link to sesion folder https://github.com/rppilgrim/Power-BI-Concepts-Webinar-202
 * **Version Control:** Using OneDrive or Google Drive, plus an introduction to PBIP (Power BI Project) and what it enables for version control and documentation.
 
 ## Advanced Concepts
+Link to session folder https://github.com/rppilgrim/Power-BI-Concepts-Webinar-2026/tree/main/03-Advanced-Concepts
 
 **Level:** Advanced
 
