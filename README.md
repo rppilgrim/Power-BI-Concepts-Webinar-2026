@@ -14,6 +14,7 @@ Link to session folder https://github.com/rppilgrim/Power-BI-Concepts-Webinar-20
 * **Example Workflow:** Building a report and deploying it to end users.
 
 ## Security and Teams
+Link to sesion folder 
 
 **Level:** Intermediate
 
