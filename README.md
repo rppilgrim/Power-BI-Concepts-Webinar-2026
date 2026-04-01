@@ -1,9 +1,8 @@
 # Power-BI-Concepts-Webinar-2026
 Even though these sessions focus on Power BI, the core concepts apply to most modern analytics platforms.
+Link to session folder https://github.com/rppilgrim/Power-BI-Concepts-Webinar-2026/tree/main/01-Power-BI-Overview
 
 ## Power BI Overview
-
-
 
 **Level:** Introductory
 
